@@ -27,6 +27,10 @@ I enjoy understanding how things work under the hood — from hardware interacti
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### 🧩 Systems & Low-Level
+
+Memory management • Multithreading • OOP • Data Structures • Algorithms
+
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,11 +50,11 @@ I enjoy understanding how things work under the hood — from hardware interacti
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalVal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MalVal)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalVal&show_icons=true&theme=default&count_private=true&include_all_commits=true)](https://github.com/MalVal)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalVal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/MalVal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalVal&layout=donut&theme=default&langs_count=8)](https://github.com/MalVal)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MalVal&theme=tokyonight&hide_border=true)](https://github.com/MalVal)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MalVal&theme=github-light&hide_border=true&area=true)
 
 </div>
 
