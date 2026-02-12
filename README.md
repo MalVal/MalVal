@@ -6,15 +6,14 @@
 
 ## 👉 About me
 
-🎓 Master's student in Computer Architecture & Systems
-💻 Passionate about low-level programming, networking and system design
-⚙️ Interested in IoT, operating systems and software architecture
+🎓 Master's student in Computer Architecture & Systems\n
+💻 Passionate about low-level programming, networking and system design\n
+⚙️ Interested in IoT, operating systems and software architecture\n
 
 ---
 
 # 🛠️ Technical Skills
 
----
 
 ## 💻 Languages
 
@@ -26,11 +25,12 @@ Memory management • Multithreading • Data Structures • Algorithms • OOP
 
 ## 🌐 Networking
 
-Strong theoretical foundations (CCNA level, early CCNP concepts)
+Strong theoretical foundations (CCNA level, early CCNP concepts)\n
 VLAN • OSPF • EIGRP • NAT/PAT • ACL • Routing & Switching
 
 ## 🗄️ Databases
 
+SQL • PLSQL
 MySQL • SQL Server • Oracle • MongoDB
 
 ## 🔧 Tools
