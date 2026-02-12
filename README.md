@@ -25,13 +25,14 @@ Memory management • Multithreading • Data Structures • Algorithms • OOP
 
 ## 🌐 Networking
 
-Strong theoretical foundations (CCNA level, early CCNP concepts)
+Theoretical & labs foundations (CCNA level, early CCNP concepts)
 
 VLAN • OSPF • EIGRP • NAT/PAT • ACL • Routing & Switching
 
 ## 🗄️ Databases
 
 SQL • PLSQL • NOSQL
+
 MySQL • SQL Server • Oracle • MongoDB
 
 ## 🔧 Tools
