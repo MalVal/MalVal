@@ -37,6 +37,12 @@ Qt • Arduino • Git
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalVal&theme=transparent&hide_border=false&layout=compact)
 
+## 📊 GitHub Activity
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalVal&show_icons=true&theme=transparent)
+
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalVal&layout=compact&theme=transparent)
+
 ---
 
 ## 🏆 Achievements
