@@ -1,27 +1,38 @@
-👋 Hi, I'm Valentin
+---
+
+# 👋 Hi, I'm Valentin
+
+---
+
+## 👉 About me
 
 🎓 Master's student in Computer Architecture & Systems
 💻 Passionate about low-level programming, networking and system design
 ⚙️ Interested in IoT, operating systems and software architecture
 
-🛠️ Technical Skills
-💻 Languages
+---
+
+# 🛠️ Technical Skills
+
+---
+
+## 💻 Languages
 
 C • C++ • C# • Java • Python • JavaScript • And more 
 
-🧩 Systems
+## 🧩 Systems
 
 Memory management • Multithreading • Data Structures • Algorithms • OOP
 
-🌐 Networking
+## 🌐 Networking
 
 Strong theoretical foundations (CCNA level, early CCNP concepts)
 VLAN • OSPF • EIGRP • NAT/PAT • ACL • Routing & Switching
 
-🗄️ Databases
+## 🗄️ Databases
 
 MySQL • SQL Server • Oracle • MongoDB
 
-🔧 Tools
+## 🔧 Tools
 
 Git • Qt • Arduino
