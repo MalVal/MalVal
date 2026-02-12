@@ -2,7 +2,7 @@
 
 🎓 Master's student in Computer Architecture & Systems  
 💻 Passionate about low-level programming, system optimization and performance  
-⚙️ Interested in embedded systems, operating systems and software architecture  
+⚙️ Interested in embedded systems, operating systems and software architecture
 
 ---
 
@@ -10,38 +10,55 @@
 
 I enjoy understanding how things work under the hood — from hardware interactions to memory management and system performance.
 
-- 🧩 Interested in: Embedded systems, OS concepts, compilers, optimization  
-- 📚 Learning more about: Advanced C++, concurrency & system design  
+- 🧩 Interested in: Embedded systems, OS concepts, compilers, optimization
+- 📚 Learning more about: Advanced C++, concurrency & system design
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### 💻 Languages
-C • C++ • C# • Java • Python • JavaScript • PHP  
 
-### 🧩 Systems & Low-Level
-Memory management • Multithreading • OOP • Data Structures • Algorithms  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Databases
-MySQL • Microsoft SQL Server • Oracle • MongoDB
 
-### 🔧 Tools & Technologies
-Qt • Arduino • Git  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalVal&show_icons=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalVal&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalVal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MalVal)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalVal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/MalVal)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MalVal&theme=tokyonight&hide_border=true)](https://github.com/MalVal)
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/valentin-malchair-31b50a303/
+- 💼 LinkedIn: [valentin-malchair](https://www.linkedin.com/in/valentin-malchair-31b50a303/)
 - 📧 Email: [Add email]
 
 ---
