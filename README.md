@@ -31,23 +31,11 @@ Qt • Arduino • Git
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalVal&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalVal&theme=transparent&hide_border=false&layout=compact)
-
 ## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalVal&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalVal&show_icons=true)
 
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalVal&layout=compact&theme=transparent)
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MalVal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MalVal&layout=compact)
 
 ---
 
