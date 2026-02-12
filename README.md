@@ -41,7 +41,7 @@ Qt • Arduino • Git
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/valentin-malchair-31b50a303/]
+- 💼 LinkedIn: (https://www.linkedin.com/in/valentin-malchair-31b50a303/)[https://www.linkedin.com/in/valentin-malchair-31b50a303/]
 - 📧 Email: [Add email]
 
 ---
